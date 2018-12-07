@@ -82,7 +82,9 @@ dLeEhk2aoeSihF7wX6Q554oWmXn797HtP7+EtZzjMcMvxcDbFZVSxTPrBV4VgOdM
 
 no passphrase
 
+## Packages Installed
 
+`httplib2 oauth2client sqlalchemy psycopg2 sqlaclemy_utils requests redirect`
 
 ## Thanks
 

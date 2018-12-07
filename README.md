@@ -81,3 +81,10 @@ dLeEhk2aoeSihF7wX6Q554oWmXn797HtP7+EtZzjMcMvxcDbFZVSxTPrBV4VgOdM
 ```
 
 no passphrase
+
+
+
+## Thanks
+
+* https://github.com/stueken/FSND-P5_Linux-Server-Configuration
+* https://github.com/chuanqin3/udacity-linux-configuration
